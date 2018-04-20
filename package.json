@@ -23,3 +23,6 @@
   },
   "homepage": "https://github.com/abhinavk99/crypto-bot#readme"
 }
+"scripts": {
+    "start": "node bot.js"
+}
